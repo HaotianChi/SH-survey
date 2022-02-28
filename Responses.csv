@@ -1,0 +1,89 @@
+Worker ID,# Devices,"# Mobile/Web 
+Apps",List of Devices,"Platforms Used for Creating 
+Automation (claimed)","Platforms Used for Creating Automation 
+(based on the provided automation rule details)",# Platforms
+A2W38XIIOR5CS2,5,3,"alexa smart plug -2,kasa smart plug-1, Ring Doorbell, Kasa Smart Bulb,ecovacs deebot","Alexa, IFTTT, ",Alexa,1
+A2SPEYJMHK39R4,6,1,"Amazon Alexa Dot, Google home, Furbo Dog nanny, KMC Smart Plugs, Phillips Hue Bulbs, KMC Smart Switch",Alexa,Alexa,1
+ARA60ZV2W08F2,2,2,"Alexa, iRobot","Alexa, iRobot",Alexa,1
+AIC9HGNFCHF5J,6,1,"Hi Geonav motion sensor, Philips Hue White & Color Ambiance","Alexa, DIY",Alexa,1
+A1Y6ZUB8YRVQLX,3,2,"Philips Hue LED, Motion sensor, Brightness sensor.","alexa, hue",alexa,1
+A12RF9L2BN8B5W,7,2,"Ring Doorbell/Cameras, Amazon Echo and show.",alexa,alexa,1
+AIQR1GZ687OMW,7,1,"Singled Smart Light Bulbs (A19 E26 Multicolor), Kasa Smart Plug (KP200), Kasa Smart Plug (HS103P4), Google Nest, Google Wifi,","google, ifttt, kasa",google,1
+A2G9X9TG2XIUDO,3,1,"LED Bulb, DC Invetor, Security Cam",smartthings,smartthings,1
+A1Z42SVOHJX7AP,7,2,"FEIT Electric light bulbs, Google Mini, Google Home, TP-Link Kasa Smart Plug, Nest thermostat",google,google home,1
+A21XMG5KSWXX9M,8,4,"Philips Hue LED bulb, Sonoff TX0, Sonoff mini R2, Ropo smart","alexa, ifttt, hue, smartthings, tuya",alexa,1
+A3K9GTQBOI7O5A,3,2,"Kasa Smart LED bulb 800 lumene , Laview 1080 HD Smart Camera, EUFY 30C MAX",alexa,alexa,1
+A1L3937MY09J3I,4,1,Amazon Smart Plugs,alexa,alexa,1
+A37C6M6P1ZNRYP,2,3,"Philips Hue A19 LED bulb, Qubo Video doorbell","hue, qubo",custom,1
+A2LASUDS4NLOZW,2,3,Amazon alexa and Google Nest,"alexa, google, tuya",alexa,1
+A1TW60NCALLP12,4,1,"Samsung smart TV, Philip led bulb, Doorbell and lock",alexa,alexa,1
+A3H7WFRISBGM1K,1,1,Amazon alexa,alexa,alexa,1
+A2NZE9MMW3GK6P,2,2,Philips Hue A19 LED bulb,hue,hue,1
+A32Q6TNSAG4U3I,4,2,"Door Security, Gate open and Close, TV turning off and on, Fan and lighting led bulbs",alexa,alexa,1
+A24T2AUA2ECVED,5,2,"Eufy Video Doorbell,Philips Hue,Nest Thermostat E,Arlo Pro 3,Eve Energy",hue,hue,1
+AMP43R3RISC1J,2,1,"l??mpada LED Philips Hue A19,","alexa, hue",alexa,1
+A1DS5O8MSI3ZH0,10,1,Google Home Mini,google,google,1
+A20YKSTR76A8P4,2,2,LG Signature InstaView Door -in-door refrigerator,"homekit, google, hubitat",google,1
+A2QTL039A5VV3I,8,1,"amazon basic lock, beatz bluetooth headphones, bluetooth speaker samsung, nest, ring for doorbell, ring for backyard lights, ring for frontyard lights, samsung smart tv, vizio smart tv",alexa,alexa,1
+ACJ12KIXGZZFH,3,2,"Amazon Alexa, FirestickTV, Philips smartlamps","alexa, google, myhome",alexa,1
+A1H3JVQ1QE0EWM,5,5,"sonoff s26 wi-fi smart plug socket outlet eWelink RF bridge 433MHz OKOS 16A mini smart WiFi switch, supports 2 way control Zebronics Zeb smart cam 100 Sonoff 4CH pro R3 WiFi smart switch Fire-retardant ABS V0 4-Gang Din Rail Mounting","alexa, homekit, smartthings",smartthings,1
+A1B3AWQ0KR9LZO,3,2,"Xiaomi watch, LG LED TV, Alexa","alexa, smartthings, xiaomi watch",alexa,1
+A2F9PLRKSWR2P3,3,4,Philips Hue A19 LED bulb,"alexa, spotify",alexa,1
+A2H1RXUC8XNNIW,2,1,"Samsung SmartThings Hub, SmartThings Motion Sensor,Mi LED XIAOMI Smart Bulb Color RGB White","smartthings, xiaomi",smartthings,1
+A26SZHRRH37T1P,4,4,"Echo, echo show, smart switches, ring doorbell","alexa, homekit, ring doorbell, kasa",alexa,1
+A3E3AAAQ66ZC1R,2,1,"Google home hub, Google home smart light, Google home smart plug",google,google,1
+MA1QXU4Q3CK75FK,3,1,"Philips LED bulb,alexa","alexa, google, hue",alexa,1
+A32K64LPRRO98C,4,2,samsung m51,"alexa, google, openhab, hue, smartthings, tuya",alexa,1
+A1CVY9ETFEXE4F,4,3,"ring doorbess, alexa dot, bay alarms,  kasa smart plugs","Amazon Alexa, kasa, bay alarms","Alexa, Kasa",2
+A2W3Q8OCO18HEN,4,4,"Kasa smart light bulb, google nest mini, echo show, echo dot","alexa, google, ifttt, smartthings","Alexa, IFTTT",2
+A17FTRR2SK95W8,2,2,"Amazon echo dot, Google home mini","Alexa, Google","Alexa, Google",2
+smart home IoT devices,5,2,"Smart lamps (Philips), Light switches (Philips), Philips Hue Play Gradient Lightstrip, Philips Hue Play Hdmi Sync Box, Security Cameras (Intelbras)","Philips Hue, Intelbras security system","Intelbras, Hue",2
+A3D9NB2JP10SQS,5,3,"Smart bulb, router, alexa, google, strip lights, flood meter","google, smartthings","google, smartthings",2
+A28KV1QXL1AV4X,4,4,"Zmodo cameras, tcl air conditioner, TP-Link bulbs, gosund plugs","alexa, Kasa, home comfort, zmodo","alexa, zmodo, ",2
+ALVV6H3CSB5IO,2,3,"Mus & Zigbee L??mpada Led Smart Home Rgb , Zigbee Smart Home LED Bulb Light Lamp RGB for Tuya Smart Life Smartthings Alexa ...","alexa, smartthings, tuya","SmartThings, alexa",2
+A1E9AQ74JFNVJP,4,2,"AMAZON ECHO PLUS (2ND GEN), PHILIPS HUE BULBS AND LIGHTING SYSTEM, NEST THERMOSTAT (3RD GEN), ECOVACS DEEBOT N79S","alexa, hue, Automate","hue, alexa",2
+COPIEDA365IWF2V71NRX,3,2,"Alexa echo, Google chromecast, Merkury Smart bulb","alexa, google, geeni","google, alexa",2
+A2IBDIU468UUW7,2,2,eWeLink Camera,"alexa, google","google, alexa",2
+A1PZIN8H1VI6SY,5,2,"Samsung smart tv, Philips Hue A19 LED bulb, general electric motion sensor, huawey security system, sony ps5.","alexa, google, hue, smartthings","alexa, smartthings",2
+A2YFQS0N1IAN9I,2,2,"Smart Switch Lutron Casita ,WeMo WIFI Smart Plug Google Nesy","alexa, google","alexa, google",2
+A39GADIK8RLMVC,18,2,"lutron lights (8), lutron fireplace, google home, phillips hue (2), amazon dot (4), amazon show (2)","alexa, google, ifttt, hue","alexa, google",2
+ARWN6TT8EWCFJ,5,3,alexa google home lifx goove light and kasa smart plug,"alexa, google, ifttt, hue, smartthings","alexa, google",2
+A34YDGVZKRJ0LZ,5,3,"Wemo, phillips hue, alexa dot, alexa tap, tuvoya plug","alexa, hue, tuya, ecobee","alexa, ecobee",2
+A1SOFLJOEQB591,4,3,"Samsung, Alexa, Smart Things","alexa, google, smartthings","smartthings, alexa, ",2
+AXTM02VF2DLOR,3,2,"Nest Thermostat - Smart Thermostat, Fitbit Surge - Smart Watch, Philips Hue BR30","google, smartthings, fitbit","smartthings, fitbit",2
+A3G8OON0TDPN1E,9,3,"Cielo Breeze, Honeywell Total Comfort, Etekcity Smart Plug, Etekcity Smart Light Switch","IFTTT, vesync, honeywell, cielo","Vesync, Cielo",2
+A3L5WFQBZ3ER8T,4,2,"Google Home - Voice controller,Amazon Echo","alexa, google","alexa, google",2
+A1LA71INO16FVS,3,2,"samsung, lg, lg","alexa, homekit, smartthings","alexa, smartthings",2
+A19O7OCARDFGDS,5,2,"kasa smart plug hs103p4 ring indoor cam stick up outdoor cam, model number?","alexa, google","google, alexa",2
+A9IYXJT90J0NK,3,2,"Ring Video Doorbell 3, Ring Motion Sensor, Nest Learning Thermostat","alexa, google","google, alexa",2
+ACM1CEGHXTKZP,5,2,"iRobot Roomba?? 614m, Amazon Echo dot, Elgin 10w Bivolt Wi-FI, Yeelight E27 and Yale YDF 40 TR","alexa, google","alexa, google",2
+A302W8OHHGLKA0,3,2,"Hue Light, Nest, Google Wifi","alexa, google, hue","hue, google",2
+AEUD4STM0TYB,3,3,"Philips Hue White and Color Ambiance E26 Bulb, Philips - Hue White and Color Ambiance A19 LED","alexa, google, hue","alexa, google",2
+A38B229W1GG2XE,3,2,"Echo Dot 3rd generation, Smart lamp Positivo, Smart TV LED PHILCO PTV55G70SBLSG","alexa, google","alexa, positivo casa inteligente",2
+A7EP668Z0WF6G,4,2,"Wi-Fi Smart Switch for Lighting, Smart Wifi Positive Lamp, Elsys Wi-Fi Smart Desk Lamp and echo dot 4","alexa, google","alexa, google",2
+A3RAQ0O1RGU1NL,N/A,5,Philips Hue A19 LED bulbs Philips Hue E26 LED bulbs Philips Hue Lightstrips Philips Hue A19 E26 Filament Standard Philips Hue Go Yeelight TP Link Smart Plugs Dyson HP04 Dyson DP01,"hue, kasa","hue, kasa",2
+A33KTU8KJ5CP2T,2,2,"Google Nest Cam Indoor Security Camera, Philips Hue Bridge","alexa, hue","alexa, google",2
+A7OLJTQCXIUKF,3,2,"5 - Geeni Light Bulbs, 2 -Smart things plugs","alexa, google, smartthings, geeni","alexa, geeni",2
+A1F2FZQXEXS1LG,2,2,"TNP Smart WiFi LED Light Bulb,Kasa Smart Plug HS103P4,","alexa, google, hue, kasa","alexa, google",2
+AXEELXUAK02J7,4,2,"August Doorbell Cam Pro 2, Nest Smoke Alarm, Nest T3021US Learning Thermostat Easy Temperature Control, Philips Hue A19 LED bulb","alexa, google, hue","alexa, hue",2
+A1F2FZQXEXS1LG,3,2,GE myTouchSmart WiFi Smart Light Dimmer Philips Hue A19 LED bulb TNP Smart WiFi LED Light Bulb,"alexa, google","alexa, google",2
+A14GCAXO9TP7GT,13,2,"Philips Hue strips, Philips Hue A19 Bulbs (white), Philips Hue A19 Bulbs(coloured), Philips Hue Pot Lights (Coloured), Nest Hello, Nest ThermoStat, TPLink Kasa A19 Bulbs (White), TPLink Kasa Smart Outlets, Nest Protect, MyQ Garage Control , Lutron Caseta Smart Switches","google, ifttt","google, ifttt",2
+A3EEAXENDQ742P,2,1,"Modem TP link, iPhone XS, iPhone 11, Samsung tv smart.","google, smartthings, serie","google, smartthings",2
+A2TW3XB546CV1C,3,2,"smart things motion senso, kangaroo doorbell camera, monster led strip","google, smart hub","kangaroo, smart hub",2
+A3NTS7ZJLLGVE4,7,3,"Ring Doorbell, Nest Home alarm, Smart TV from samsung, Philips Hue LED Bulbs x5, Smart Things ceiling fan, alexa dot, Philips Smart plugs.","Alexa, google, philips Hue, SmartThings","Alexa, SmartThings, google",3
+AT9GGTR1B8A66,5,6,"xiomi MJDP02YL, xiomi MJSXJ02CM, Realmi RMH2009, Yale J20 RFID & Pin Enabled","Amazon Alexa, Google Assistant, Hue, Xiaomi home, Yale Access","Xiaomi Home, Alexa, Yale",3
+A2YZ3CB06UBD4O,7,4,August smart lock; Philips smart light strip; Philips smart bulb; Kasa smart plug; Amazon smart speaker; Zooz Z-wave 4-in-1 sensor; Kasa smart switch,"alexa, smartthings, august","smartthings, alexa, august",3
+A1PBRKFHSF1OF8,5,3,"2 Amazon show, Amazon echo, ring doorbell, Arlo alarm system and cameras","alexa, ring, arlo","alexa, ring, arlo",3
+A28LGHBRWOFZOZ,3,3,"AMAZON ECHO PLUS,AWAIR AIR-QUALITY MONITOR,PHILIPS HUE BULBS AND LIGHTING SYSTEM","alexa, hue, tuya","alexa, awair, hue",3
+A10AVWALIHR4UQ,16,3,"Ikea Tradfri LED bulb, Ikea Stromlinje LED strip and driver, Ikea Tradfri smart outlet, Ecobee SmartThermostat, Ring Video Doorbell Wired, Amazon Smart Plug,  Amazon Echo Dot smart speaker (3rd Gen), Amazon Echo Show 5, Amazon Echo Show 7.","alexa, homekit, ecobee","alexa, homekit, ecobee",3
+A2XNMAZ318NXYC,32,3,"SmartThings outlet, motion sensor, open/close sensor Yale SmartLock Intermatic Remote Aeotec Remote, Switch, Microswitch, Motion sensor Various unbranded Open/Close sensor GE Z-wave Switch and Dimmer Switch Lifx Bulbs Google/Nest SmartSpeaker, Thermostat","google, ifttt, smartthings, Tasker, nest","google, tasker, smartthings",3
+A55ASDPEQVW92,3,2,(Wemo smart plug) (delta dore home security) (Aqara for door window sensor),"alexa, hue, smartthings, tuya, wemo","alexa, Delta Dore, Aqara",3
+A3SPCZDFFG2Q0U,16,3,"Philips Hue White and Color Ambiance A19 x 6, Phillips Hue play x 2, Phillips Hue Discover outdoor white and color ambiance, Honeywell Thermostat, Ring Doorbell, GE z-wave Smart switch x5, Amazon Alexa DOT x5","alexa, hue, wink, razer synapse","wink, alexa, razer synapse",3
+AG7K841P6LCWL,5,4,"Google Home Voice Controller, Amazon Echo Plus Voice Controller, Amazon Dash Button, Belkin WeMo Smart Light Switch, Philips Hue Bulbs and Lighting System.","alexa, homekit, google, hue","google, alexa, hue",3
+A1FX3LZ259KP7J,5,3,Amazon Echo Dot with Clock Arlo Q. Ecobee SmartThermostat. Philips Hue White A19 Starter Kit. Nest Hello,"Alexa, google, hue","alexa, google, hue",3
+A1SZUK2NNAJ2HY,4,3,"Google Home Voice Controller, Amazon Echo Plus, August Smart Lock, Philips Hue Bulbs and Lighting System","alexa, google, philips hue, August","google, Alexa, August, Hue",4
+AX8XE3GEOP5D,14,4,"geeni lightbulbs, geeni smart plugs, kasa smart plug, Amazon echo dot, Samsung Smart TV","alexa, smartthings, geeni, kasa","smartthings, alexa, geeni, kasa",4
+A3696JXTRKL2FI,42,4,"Lifx BR 30, Lifx Z Strip, Lifx A19, Lutron Caseta Switch, Lutron Serena Shades, Ring Video Doorbell 3, Ring Spotlight Cams, MyQ Garage","homekit, ifttt, lutron, LIFX, shortcuts","lutron, LIFX, shortcuts, ifttt",4
+AKTQD9Y44G495,5,5,"Nest, Ring, Alexa, Philips bulbs, Huans fan","alexa, nest, ring, hue, huans","alexa, nest, ring, hue",4
+AJ7ZG426Z02RJ,16,5,"Google home( 5), Philips hue lights ( 5), Smart plugs ( 5), Roomba","google, ifttt, hue, tuya, wink","google, wink, tuya, irobot",4
+A3HNEYFOIJWPH1,3,3,"Gosund LED Bulbs, CoveSmart, Ring Doorbell, GE Fridge with Smart WiFi, WiFi Music Strip Lights, Amazon Smart Plug","alexa, gosund, ge, ring, covesmart","alexa, gosund, ge, ring, covesmart",5
